@@ -84,5 +84,5 @@ https://www.youtube.com/watch?v=Gj1thGFrA3g
 
 ## 5. BIBLIOGRAFÍA:
 
-- ITCA-MEGATEC ZACATECOLUCA (11 del 11 de 2011). Obtenido de: https://rubenponce-electronica14.blogspot.com/2011/11/
-- FINAL TEST (s.f) Osciloscopio. Obtenido de: https://www.finaltest.com.mx/product-p/art-9.htm
+- ITCA-MEGATEC ZACATECOLUCA (11 del 11 de 2011). Obtenido de: https://www.studocu.com/co/document/universidad-santiago-de-cali/teoria-electromagnetica/numeros-complejos-y-fasores-en-polar-y-forma-rectangular-tutoriales-de-electronica-basica/2767696
+- FINAL TEST (s.f) Operaciones con Números Complejos. Obtenido de: https://www.superprof.es/apuntes/escolar/matematicas/aritmetica/complejos/operaciones-con-numeros-complejos.html
