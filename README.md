@@ -20,14 +20,13 @@
 
    #### Objetivo General:
 
-   - 
+   - Resolver los ejercicios propuestos sobre conversión de fasores de su polar a rectangular y visceversa. 
 
    #### Objetivos Específicos:
     
-   - Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
-   - Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
-   - Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto. 
-   - Conocer las partes por la que está formada una Onda senoidal para tener un mejor entendimiento a la hora de ponerlas en práctica.
+   - Reconocer la forma polar y rectangular de los fasores.
+   - Realizar operaciones entre fasores en su forma polar y rectangular.
+   - Comparar los resultados analíticos obtenidos con una calculadora científica. 
 
 ## 2. MARCO TEÓRICO
 
@@ -79,6 +78,8 @@ https://www.youtube.com/watch?v=Gj1thGFrA3g
 
 ## 5. CONCLUSIONES:
 
+- Un fasor puede ser representado por número complejos, el cual contiene una parte real y una parte imaginaria. En forma rectangular un número complejo se puede simbolizar como un punto en un plano de dos dimensiones. 
+- A diferencia de la forma rectangular, la forma polar de un número complejo está escrito en términos de su magnitud y el ángulo.
 
 
 ## 5. BIBLIOGRAFÍA:
