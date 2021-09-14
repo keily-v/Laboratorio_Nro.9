@@ -96,6 +96,7 @@ https://www.youtube.com/watch?v=Gj1thGFrA3g
 
 - Un fasor puede ser representado por número complejos, el cual contiene una parte real y una parte imaginaria. En forma rectangular un número complejo se puede simbolizar como un punto en un plano de dos dimensiones. 
 - A diferencia de la forma rectangular, la forma polar de un número complejo está escrito en términos de su magnitud y el ángulo.
+- Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
 
 
 ## 5. BIBLIOGRAFÍA:
