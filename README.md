@@ -48,9 +48,9 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 #### 3.3.1. Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/84594486/133164902-61326aef-c920-474f-a4d0-297cef67e5d1.png)
+![image](https://user-images.githubusercontent.com/84594486/133198879-f7916f61-c63a-44aa-92d1-d1755e3fd1ca.png)
 
-![image](https://user-images.githubusercontent.com/84594486/133164928-b2a3fd44-65a1-48f2-bbb1-c551d9cc2e88.png)
+![image](https://user-images.githubusercontent.com/84594486/133198849-74b33b3f-303f-41e0-9250-2bf74bd93117.png)
 
 #### 3.3.2. Transforme a su forma rectangular:
 
@@ -71,6 +71,25 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 #### 3.3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+Literal 3.3.1
+
+![image](https://user-images.githubusercontent.com/84594486/133198294-cf2202fe-c482-42ee-bf01-5ccb8fae9c9e.png)
+
+![image](https://user-images.githubusercontent.com/84594486/133198760-d9c7cc14-215f-475c-9336-728085f23464.png)
+
+Literal 3.3.2
+
+![image](https://user-images.githubusercontent.com/84594486/133199116-351f1df6-9c01-43a3-9592-ad3d89a02ba4.png)
+
+![image](https://user-images.githubusercontent.com/84594486/133199198-d4c29dd7-a37d-411b-846e-18acafef0534.png)
+
+Literal 3.3.3
+
+![image](https://user-images.githubusercontent.com/84594486/133199575-59d47b15-4d2c-49bd-ae0b-a18554f62c4e.png)
+
+![image](https://user-images.githubusercontent.com/84594486/133200260-4c69dcb8-1dc0-4f3e-b36d-6cdc82022f1a.png)
+
+![image](https://user-images.githubusercontent.com/84594486/133200446-ab64f397-fa73-4b1b-b129-d9694f5d9d59.png)
 
 ## 4. VIDEO:
 
