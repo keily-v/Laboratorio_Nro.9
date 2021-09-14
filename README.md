@@ -62,12 +62,9 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 ![image](https://user-images.githubusercontent.com/84594486/133165230-15fcc443-4b29-4500-88b7-cc12716d8427.png)
 
-![image](https://user-images.githubusercontent.com/84594486/133165270-58c4db15-5ebb-4b6d-8d6c-95aa7e331a9d.png)
+![image](https://user-images.githubusercontent.com/84594486/133201334-d4f3fe13-2995-4766-95da-89dda87a23b4.png)
 
-![image](https://user-images.githubusercontent.com/84594486/133165463-0f691b0f-5939-49c1-a7c3-4a84d3931a48.png)
-
-![image](https://user-images.githubusercontent.com/84594486/133165488-5e6f8dfc-3df8-4021-a5e5-3351f0854093.png)
-
+![image](https://user-images.githubusercontent.com/84594486/133201287-5cb94109-55fb-4bb2-a75d-036b0b8b6af1.png)
 
 #### 3.3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
